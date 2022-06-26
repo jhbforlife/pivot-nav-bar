@@ -47,23 +47,23 @@ body {
 .site-section-1 {
   background-color: CanvasText;
   color: Canvas;
-  padding: 25vh;
+  padding: 25vh 10px;
 }
 
 .site-section-2 {
   background-color: Canvas;
   color: CanvasText;
-  padding: 25vh;
+  padding: 25vh 10px;
 }
 
 .site-section-3 {
   background-color: CanvasText;
   color: Canvas;
-  padding: 25vh;
+  padding: 25vh 10px;
 }
 
 .site-section-4 {
   background-color: Canvas;
   color: CanvasText;
-  padding: 25vh;
+  padding: 25vh 10px;
 }
