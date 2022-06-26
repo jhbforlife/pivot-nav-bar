@@ -23,7 +23,7 @@ body {
   z-index: 1;
   position: fixed;
   top: 0px;
-  border-bottom: 1px dashed black;
+  border-bottom: 1px dashed CanvasText;
   background-color: Canvas;
   color: CanvasText;
   min-height: 5vh;
