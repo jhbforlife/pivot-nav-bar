@@ -71,6 +71,16 @@ body {
   padding: 25vh 10px;
 }
 
-@media (forced-colors: active) {
-  
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-background: #fefefe;
+    --color-text-default: #000000;
+  }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #000000;
+    --color-text-default: #fefefe;
+  }
+}
 }
