@@ -70,3 +70,7 @@ body {
   color: CanvasText;
   padding: 25vh 10px;
 }
+
+@media (forced-colors: active) {
+  
+}
